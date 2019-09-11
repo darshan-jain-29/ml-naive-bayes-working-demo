@@ -2,7 +2,9 @@ Successful implementation of Naive Bayes Algorithm - Machine Learning
 
 Naive Bayes Algorithm can be used when you want to determine something based on past data/history. Following is an examples as per my understanding - If you want to differentiate between normal - useful emails and spam emails, you can use NB algorithm.
 
-For using the above code implement the following 2 steps first
+The entire code is commented for better understanding. 
+
+Now, for using the above code implement the following 2 steps first
 
 1. pip install scikit-learn
 2. pip install nltk
